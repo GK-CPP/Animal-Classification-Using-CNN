@@ -54,7 +54,7 @@ pip install tensorflow keras numpy matplotlib opencv-python pillow
 ## Project Trailer
 
 - [Project Trailer](https://www.youtube.com/watch?v=koohmGRh6F8) <br> <br>
-  [![Animal-Classification-Using-CNN](https://img.youtube.com/vi/koohmGRh6F8/1.jpg)](https://www.youtube.com/watch?v=_qAYihx-MrI)
+  [![Animal-Classification-Using-CNN](https://img.youtube.com/vi/_qAYihx-MrI/0.jpg)](https://www.youtube.com/watch?v=_qAYihx-MrI)
 
 ## Author
 
